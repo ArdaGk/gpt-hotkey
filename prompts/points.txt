@@ -1,0 +1,5 @@
+"<text>"
+
+Extract only the interesting ideas from the paragraph that could be used for the topic: "<topic>".
+
+-

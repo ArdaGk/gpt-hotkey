@@ -1,0 +1,13 @@
+text: The keto diet is a great way to lose weight, improve your health, and boost your energy levels. The keto diet is a low-carbohydrate, high-fat diet that induces ketosis. The keto diet was originally developed in the 1920s as a treatment for epilepsy, but its potential benefits have since been studied for a wide range of other health conditions. The keto diet has been shown to have a number of health benefits, including weight loss, improved mental clarity, and reduced inflammation.
+
+prompt: Expand the text in more detail.
+
+result: The keto diet is a high-fat, low-carbohydrate diet that has been shown to be an effective way to lose weight, improve mental clarity, and reduce inflammation. The keto diet was originally developed in the 1920s as a treatment for epilepsy, but its potential benefits have since been studied for a wide range of other health conditions. The keto diet has been shown to be an effective way to lose weight, in part because it induces ketosis. Ketosis is a metabolic state in which the body uses ketones, derived from fat, as its primary source of energy instead of glucose. Ketones are a more efficient source of energy than glucose, and the keto diet has been shown to reduce inflammation and improve mental clarity.
+
+"""
+
+text: <text>
+
+prompt: Expand the text in more detail.
+
+result:

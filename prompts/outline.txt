@@ -1,0 +1,18 @@
+Outline MUST be in this format:
+
+A) First Paragraph:
+1. Thesis:
+2. Example:
+
+B) Second Paragraph:
+1. Thesis:
+2. Example:
+
+C) Third Paragraph:
+1. Thesis:
+2. Example:
+
+Generate an outline on the topic "<topic>" using the given format.
+
+A) First paragraph:
+1. Thesis:

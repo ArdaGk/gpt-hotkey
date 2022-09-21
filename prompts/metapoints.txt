@@ -1,0 +1,29 @@
+"...2 Related Work  The significant related work to our study includes the literature around shared  reading, interactive books and pictures, and expressive typography.   2.1 Shared reading  We here consider shared reading to be the activity of a child and adult reading  together. This practice is recommended �to promote students� understanding and  engagement with a text� [3]. Shared reading builds on the act of reading aloud which  is beneficial for enabling children to hear language fluency, broaden their vocabulary  and improve their knowledge of the world [4], in reading aloud situations the child is  more passive than in a shared reading experience. In shared reading adults act as  mediators and helping in the transition between the child not being able to read, and  the child reading independently. Shared reading, consequently, is an important  learning tool, promoting discussion, questions and a fun learning environment.   Participating in shared reading extends traditional schooling practices, teaching the  child that they become a partner in communication when interacting with text [5].  This means that shared print experiences do not only enhance literacy development,  but the communication skills of the child in general. Certain features and criteria  enable shared-reading to be more productive. A book chosen for shared reading  should invite involvement from both the chi..."
+
+Extract a metatext from the given piece of paragraph.
+
+-Importance of shared reading.
+
+###
+
+"Be supportive and celebrate your child's successes.  Some parents may feel that it's helpful to scold a child who isn't grasping the words they�ve read. However, psychologists generally agree that support during at-home reading is more important than giving assignments or scolding negative performances. Work to correct any mistakes your child is making, but then celebrate their victory even more once they get the words right."
+
+Extract a metatext from the given piece of paragraph.
+
+-Supporting and celebrating children's successes when reading.
+
+###
+
+"...Those uninterested in strictly eliminating all animal products from their diet can  still benefit from making plant-based foods the central, main part of their diet (Tuso et al.,  2013). Eggs can be a nutritious dietary component for those looking to improve their  health without eliminating all animal products (Gray & Griffin, 2013; Ruxton, 2010,  THE BENEFITS AND CONCERNS OF VEGANISM IN WOMEN�S HEALTH  29  Ruxton, 2013), but the nutritional value of dairy is inconclusive and requires more  research. The conflicting evidence seems to suggest that dairy consumed in moderation  as part of a plant-based diet is not strongly associated with disease risk (Kroenke et al.,  2013; Lanou, 2009, The Physician�s Committee, n.d. a; Thorning et al., 2016).  Strict vegans need to focus on consuming foods containing vitamin B12 and iron.  Women who are pregnant and lactating should talk to their physicians to ensure they are  consuming adequate folic acid and polyunsaturated fatty acids as well. If women are not  consuming adequate amounts of these nutrients, they may require supplementation to  prevent ..."
+
+Extract a metatext from the given piece of paragraph.
+
+-Dietary requirements for those following a plant-based diet.
+
+###
+
+"<text>"
+
+Extract a metatext from the given piece of paragraph.
+
+-

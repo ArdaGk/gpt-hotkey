@@ -1,0 +1,26 @@
+"...2 Related Work  The significant related work to our study includes the literature around shared  reading, interactive books and pictures, and expressive typography.   2.1 Shared reading  We here consider shared reading to be the activity of a child and adult reading  together. This practice is recommended �to promote students� understanding and  engagement with a text� [3]. Shared reading builds on the act of reading aloud which  is beneficial for enabling children to hear language fluency, broaden their vocabulary  and improve their knowledge of the world [4], in reading aloud situations the child is  more passive than in a shared reading experience. In shared reading adults act as  mediators and helping in the transition between the child not being able to read, and  the child reading independently. Shared reading, consequently, is an important  learning tool, promoting discussion, questions and a fun learning environment.   Participating in shared reading extends traditional schooling practices, teaching the  child that they become a partner in communication when interacting with text [5].  This means that shared print experiences do not only enhance literacy development,  but the communication skills of the child in general. Certain features and criteria  enable shared-reading to be more productive. A book chosen for shared reading  should invite involvement from both the chi..."
+
+Extract specific key points from the given piece of paragraph.
+
+-Shared reading is an important learning tool that promotes discussion, questions, and a fun learning environment.
+-Shared reading helps children transition from not being able to read to reading independently.
+-Participating in shared reading also teaches children communication skills.
+-Certain features and criteria make shared reading more productive, such as a book that invites involvement from both the child and the adult.
+
+###
+
+""...Benefits   Chronic diseases make up the largest category of health burdens in western  cultures (Centers for Disease Control and Prevention, 2016b). While these conditions are  caused by many factors, level of physical activity and diet are two modifiable and  influential contributors affecting disease promotion or prevention. Current  recommendations for physical activity are consistent and easily understood, but much  confusion remains about what type of diet can decrease disease risk. A plant-based vegan  diet has been shown to be protective against many diseases and is promoted by the  American Institute for Cancer Research, World Cancer Research Fund, American Cancer  THE BENEFITS AND CONCERNS OF VEGANISM IN WOMEN�S HEALTH  5  Society, American Heart Association, Heart and Stroke Foundation of Canada, American  Cancer Society, National Institutes of Health, and the American Academy of Pediatrics.  It is associated with reduced rates of many chronic diseases, including obesity,  cardiovascular disease, diabetes, and cancers (�Position�, 2003).  Obesity  There are many effective weight-loss programs, but few promote long-term  weight los...""
+
+Extract specific key points from the given piece of paragraph.
+
+-A plant-based vegan diet has been shown to be protective against many diseases.
+-The plant-based vegan diet is associated with reduced rates of obesity, cardiovascular disease, diabetes, and cancers.
+-There are many effective weight-loss programs, but few promote long-term weight loss.
+
+###
+
+"<text>"
+
+Extract specific key points from the given piece of paragraph.
+
+-

@@ -1,0 +1,7 @@
+Write an introduction paragraph for the topic "<topic>"
+
+Introduction paragraph should have;
+- An attention getter
+- Background information
+- Thesis statement
+
