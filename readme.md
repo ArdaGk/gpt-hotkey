@@ -20,7 +20,7 @@ prompts/paraphrase.txt
 Sentence: <text>
 Paraphrased:
 ```
-After the text is highlighted, pressing "Ctrl x3 and Ctrl+C" will copy the text into the clipboard, replace the "<text>" with the actual text, and send it to GPT-3. The output will automatically be copied into the clipboard.
+After the text is highlighted, pressing "Ctrl x3 and Ctrl+C" will copy the text into the clipboard, replace the \<text\> with the actual text, and send it to GPT-3. The output will automatically be copied into the clipboard.
 
 Result (Ctrl+V):
 ```Docker is a set of PaaS products that use virtualization to deliver software in containers.```
