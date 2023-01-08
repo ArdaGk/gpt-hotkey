@@ -1,6 +1,3 @@
-# GPT-HOTKEY
-gpt-hotkey is a more efficient way of generating texts using hotkeys and clipboard. 
-
 ## Setup
 1. pip install -r requirements.txt
 2. Rename .env.example to .env
@@ -8,11 +5,11 @@ gpt-hotkey is a more efficient way of generating texts using hotkeys and clipboa
 4. python3 main.py
 
 
-##  How it works?
-Copying a text into the clipboard will trigger a GPT-3 completion, the priorly pressed key combination will call a prompt and the text in the clipboard will be inserted to the prompt. As soon as text generation is complete, the content of the clipboard will be replaced with the  output.
+## How it works?
+Copying a text into the clipboard will trigger a GPT-3 completion. Each predefined prompt can be assigned to a key pattern, if a text is copied after a key pattern, the text inside the clipboard will be inserted into the prompt and sent to gpt-3. As soon as text generation is complete, the content of the clipboard will be replaced with the output.
 
 ## Example
-Target text
+Target text:
 ```"Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers. (Wikipedia)" ``` 
 
 prompts/paraphrase.txt
